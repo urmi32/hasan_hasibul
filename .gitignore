@@ -1,0 +1,4 @@
+#ignoring file
+.DS_Store
+.*.un_
+.swp
