@@ -1,6 +1,7 @@
 <?php
 echo "Hello Hasan hasibul";
 echo "This is my first git project";
+$array = [];:
 <<<<<<< HEAD
 =======
 echo "git commit practicing";
